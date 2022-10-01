@@ -6,10 +6,17 @@
 
 - I’m interested in Machine Learning, Deep Learning, NLP, Computer Vision and Adversarial attacks. 
 
+### Projects
+- ![Question Answering System for Indian Languages](https://github.com/jothiprakashK/QnA-for-Indian-Languages)
+- ![Semi-supervised Stance Detection of Tweets](https://github.com/jothiprakashK/Semi-Supervised-Stance-Detection-)
+- ![Link Prediction For Social Media Networks Using Graph Mining](https://github.com/jothiprakashK/Link_Prediction)
+- ![Semantic Question Matching With Machine Learning](https://github.com/jothiprakashK/Semantic_Question_Matching)
+
 ### Technical Skills
 - 🌐 &nbsp; 
-  ![Cpp](https://img.shields.io/badge/-cpp-333333?style=flat&logo=cplusplus&logoColor=blue)
   ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
+  ![Cpp](https://img.shields.io/badge/-cpp-333333?style=flat&logo=cplusplus&logoColor=blue)
+  
  
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -26,7 +33,6 @@
   ![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=Tensorflow)
 
 
-- Check out my projects below.
 <!-- 
  ...
 - 🌱 I’m currently learning ...
