@@ -4,7 +4,7 @@
 
 - I'm currently pursuing my Master's in Data Science from Indian Institute of Technology, Guwahati. My Ongoing research Topic is "Universal Adversarial attacks on Semantic Segmentation" in which I am trying to make segmentation model more robust against adversarial attacks.
 
-- 👀 I’m interested in Machine Learning, Deep Learning, NLP, Computer Vision and Adversarial attacks. 
+- I’m interested in Machine Learning, Deep Learning, NLP, Computer Vision and Adversarial attacks. 
 
 ### Technical Skills
 - 🌐 &nbsp; 
