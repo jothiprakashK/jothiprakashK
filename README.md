@@ -6,7 +6,6 @@ I'm from Trichy, Tamilnadu, India and my journey into data science began during 
 At IIT, I built a strong foundation in **Machine Learning, Deep Learning, NLP, and Computer Vision**. Upon graduating, I joined the R&D Software division at TVS Motors as a **Software Engineer**.
 
 In this role, I've been developing **next-generation Human-Machine Interface (HMI)** solutions. It's been a fantastic experience applying my AI and machine learning background to build software that directly enhances user experience and safety. I'm driven by solving these kinds of challenging problems and am always curious to learn what's next.
----
 ## 🧠 Academic Foundation
 
 My academic journey has built a strong theoretical foundation, which I love applying to complex, real-world problems.
@@ -44,6 +43,7 @@ When I'm not coding or diving into data, I enjoy:
     * **Binging Movies & Series**
     * **Vibing for Music**
     * **Playing Basketball** 
+    * **Writting Blogs** (Recently Started)
 
 ---
 ## 📫 Get in Touch
