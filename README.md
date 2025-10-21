@@ -1,16 +1,11 @@
 ---
 ## 🌟 Hi there! I'm Jothiprakash K
 
-I'm a **Software Engineer** with a passion for building next-generation software solutions that enhance user experience and safety. Currently based in **Bengaluru, India**.
+I'm from Trichy, Tamilnadu, India and my journey into data science began during my undergrad with a course in **Applied Multivariate Statistical Analysis**. That subject sparked my interest, leading me to pursue a **Master's in Data Science at IIT Guwahati**.
 
----
-## 💻 Professional Experience & Focus
+At IIT, I built a strong foundation in **Machine Learning, Deep Learning, NLP, and Computer Vision**. Upon graduating, I joined the R&D Software division at TVS Motors as a **Software Engineer**.
 
-I bring **2+ years of experience** from the **R&D Software CoC at TVS Motor**, where I work as a Software Engineer.
-
-* My core focus is on **developing cutting-edge HMI Software solutions** to elevate the rider's experience and ensure safety.
-* My professional work gives me practical experience in real-time embedded systems and high-stakes software development.
-
+In this role, I've been developing **next-generation Human-Machine Interface (HMI)** solutions. It's been a fantastic experience applying my AI and machine learning background to build software that directly enhances user experience and safety. I'm driven by solving these kinds of challenging problems and am always curious to learn what's next.
 ---
 ## 🧠 Academic Foundation
 
@@ -22,7 +17,6 @@ My academic journey has built a strong theoretical foundation, which I love appl
 * **Undergraduate Degree (B.E.)** | **College of Engineering, Guindy (CEG)**
     * *Core Strength:* **Applied Multivariate Statistical Analysis**, **Operation Research**, **Supply Chain Management**, and **Total Quality Management**.
 
-
 ---
 ## 🛠️ Tech Stack & Skills
 
@@ -30,16 +24,18 @@ My toolkit is versatile, spanning production-level software development and adva
 
 | Area | Technologies & Frameworks |
 | :--- | :--- |
-| **Programming** | **Python**, **Kotlin**, **SQL** |
-| **Data Science & ML/DL** | **PyTorch**, **Numpy**, **Pandas**, **Matplotlib**, **Scikit-learn** |
-| **GenAI & RAG** | **LangChain**, **ChromaDB** |
+| **Programming Languages** | **Python**, **Kotlin**, **SQL** |
+| **Core Concepts** | **Machine Learning**, **Deep Learning**, **CV**, **NLP**, **GenAI**, **LLMs**, **RAG** | 
+| **Frameworks & Libraries** | **PyTorch**, **Numpy**, **Pandas**, **Matplotlib**, **Scikit-learn**, **Scipy**, **TFlite**, **SQLlite**, **LangChain**, **ChromaDB**  |
+| **Deployment Tools & OS** | **Linux**, **Docker**, **Kubernates**, **Git**, **Github**, **Github Actions (CI/CD) \***, **GCP \*** |
 
 ---
 ## 🚀 Current Personal Projects
 
 Outside of my professional responsibilities, I'm constantly learning and building. Check out my repositories for the latest updates on these projects:
-    * **Pothole Detection using YOLOv12:** \[**]
-    * **VoiceAssistant4Automotive:** \[*I*]
+    * **Pothole Detection using YOLO:**
+    * **Voice Assistant For Automobiles:**
+    * **Domain-Specific Research Assistant (RAG-powered LLM System)**
 
 ---
 ## 趣味 Hobbies
