@@ -31,28 +31,34 @@ My toolkit is versatile, spanning production-level software development and adva
 ---
 ## 🚀 Current Personal Projects
 
-Outside of my professional responsibilities, I'm constantly learning and building. Check out my repositories for the latest updates on these projects:
-    * **Pothole Detection using YOLO:**
-    * **Voice Assistant For Automobiles:**
-    * **Domain-Specific Research Assistant (RAG-powered LLM System)**
+Outside of my professional responsibilities, I'm constantly learning and building. You can check out my repositories for the latest updates on these projects:
 
----
-## 趣味 Hobbies
+   * Pothole Detection using YOLO: [Add your GitHub/Project link here]
 
+   * Voice Assistant For Automobiles: [Add your GitHub/Project link here]
+
+   * Domain-Specific Research Assistant (RAG-powered LLM System): [Add your GitHub/Project link here]
+
+##  Hobbies & Interests
 When I'm not coding or diving into data, I enjoy:
-    * **Binging Movies & Series**
-    * **Vibing for Music**
-    * **Playing Basketball** 
-    * **Writting Blogs** (Recently Started)
 
----
-## 📫 Get in Touch
+   * Binging movies & series
 
+   * Listening to music
+
+   * Playing basketball
+
+   * Writing blogs (a recent hobby!)
+
+📫 Get in Touch
 Feel free to connect with me to discuss software architecture, data science, or the future of HMI technology!
 
-* **LinkedIn:** \[*https://www.linkedin.com/in/jothiprakashk/*]
-* **Email:** \[*jothiprakash243@gmail.com*]
-* **Leetcode:** \[*https://leetcode.com/u/jothiprakash243/*]
-* **Medium** \[*Optional: Insert your Twitter/X handle here*]
+   * LinkedIn: linkedin.com/in/jothiprakashk
+
+   * Email: jothiprakash243@gmail.com
+
+   * LeetCode: leetcode.com/u/jothiprakash243
+
+   * Medium: [Add your Medium profile link here]
 
 ***
